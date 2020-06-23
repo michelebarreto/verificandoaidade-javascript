@@ -1,0 +1,29 @@
+body{
+background:pink;/*cor de fundo da pagina*/
+font:normal 10pt Arial;
+
+}
+header{
+color: rgb(17, 17, 17);/*letra titulo vai ficar branco*/
+text-align: center;/*centralizando o texto dentro do section*/
+
+
+}
+section{
+    background: white;
+    border-radius: 10px; /*bordas arredondadas*/
+    padding: 15px;/*tamanho do espaço no section branco*/
+    width: 500px;/*largura da pagina*/
+    margin: auto;/*centralização do section branco*/
+    box-shadow: rgba(0, 0, 0, 0.246);
+
+
+
+
+}
+footer{/* configuração do rodapé*/
+    color:rgb(10, 10, 10);
+    text-align: center;
+    font-style: italic;
+
+}
